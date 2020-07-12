@@ -1,7 +1,7 @@
-package com.techprimers.security.jwtsecurity.controller;
+package com.ravi.security.jwtsecurity.controller;
 
-import com.techprimers.security.jwtsecurity.model.JwtUser;
-import com.techprimers.security.jwtsecurity.security.JwtGenerator;
+import com.ravi.security.jwtsecurity.security.JwtGenerator;
+import com.ravi.security.jwtsecurity.model.JwtUser;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;

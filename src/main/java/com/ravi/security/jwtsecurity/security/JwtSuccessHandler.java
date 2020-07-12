@@ -1,4 +1,4 @@
-package com.techprimers.security.jwtsecurity.security;
+package com.ravi.security.jwtsecurity.security;
 
 
 import org.springframework.security.core.Authentication;

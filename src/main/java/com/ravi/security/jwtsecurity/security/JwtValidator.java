@@ -1,6 +1,6 @@
-package com.techprimers.security.jwtsecurity.security;
+package com.ravi.security.jwtsecurity.security;
 
-import com.techprimers.security.jwtsecurity.model.JwtUser;
+import com.ravi.security.jwtsecurity.model.JwtUser;
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;
 import org.springframework.stereotype.Component;
